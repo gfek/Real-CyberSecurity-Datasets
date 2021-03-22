@@ -64,3 +64,6 @@ e.g. https://www.kaggle.com/c/malware-classification/overview (Microsoft Malware
 Public dataset of Cloudtrail logs from flaws.cloud.
 
 https://summitroute.com/blog/2020/10/09/public_dataset_of_cloudtrail_logs_from_flaws_cloud/
+
+Dataset (logs data): http://summitroute.com/downloads/flaws_cloudtrail_logs.tar
+
