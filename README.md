@@ -53,7 +53,7 @@ https://github.com/ocatak/malware_api_class
 
 ## KAGGLE
 
-Various datasets provided by Kaggle
+Various datasets provided by Kaggle (Explore, analyze, and share quality data. Learn more about data types, creating, and collaborating).
 
 https://www.kaggle.com/datasets
 
