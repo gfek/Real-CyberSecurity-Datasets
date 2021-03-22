@@ -58,3 +58,9 @@ Various datasets provided by Kaggle (Explore, analyze, and share quality data. L
 https://www.kaggle.com/datasets
 
 e.g. https://www.kaggle.com/c/malware-classification/overview (Microsoft Malware Classification Challenge (BIG 2015))
+
+## Cloudtrail
+
+Public dataset of Cloudtrail logs from flaws.cloud.
+
+https://summitroute.com/blog/2020/10/09/public_dataset_of_cloudtrail_logs_from_flaws_cloud/
