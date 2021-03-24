@@ -17,6 +17,7 @@ Public datasets to help you address various cyber security problems using Machin
  - [EMBER](#-EMBER)
  - [Industrial Control System (ICS) Cyber Attack Datasets](#-Industrial-Control-System-(ICS)-Cyber-Attack-Datasets)
  - [Canadian Institute for Cybersecurity](#-Canadian-Institute-for-Cybersecurity)
+ - [Publicly available PCAP files](#-Publicly-available-PCAP-files)
 
 ## [↑](#table-of-contents) The ADFA Intrusion Detection Datasets
 
@@ -120,3 +121,19 @@ https://sites.google.com/a/uah.edu/tommy-morris-uah/ics-data-sets
 Canadian Institute for Cybersecurity datasets are used around the world by universities, private industry, and independent researchers.
 
 https://www.unb.ca/cic/datasets/index.html
+
+## Publicly available PCAP files
+
+_This is a list of public packet capture repositories, which are freely available on the Internet. Most of the sites listed below share Full Packet Capture (FPC) files, but some do unfortunately only have truncated frames._
+
+* Cyber Defence Exercises (CDX)
+* Malware Traffic
+* Network Forensics
+* SCADA/ICS Network Captures
+* Capture the Flag Competitions (CTF)
+* Packet Injection Attacks / Man-on-the-Side Attacks
+* Uncategorized PCAP Repositories
+* Single PCAP files
+* Online PCAP Services
+
+https://www.netresec.com/index.ashx?page=PcapFiles
