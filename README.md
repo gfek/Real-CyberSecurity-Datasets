@@ -97,3 +97,9 @@ It consist of the following four (4) datasets:
 * Dataset 4: New Gas Pipeline
 
 https://sites.google.com/a/uah.edu/tommy-morris-uah/ics-data-sets
+
+## Canadian Institute for Cybersecurity
+
+Canadian Institute for Cybersecurity datasets are used around the world by universities, private industry, and independent researchers.
+
+https://www.unb.ca/cic/datasets/index.html
