@@ -80,3 +80,10 @@ Dataset (logs data): http://summitroute.com/downloads/flaws_cloudtrail_logs.tar
 MAWILab is a database that assists researchers to evaluate their traffic anomaly detection methods. It consists of a set of labels locating traffic anomalies in the MAWI archive (samplepoints B and F). The labels are obtained using an advanced graph-based methodology that compares and combines different and independent anomaly detectors. The data set is daily updated to include new traffic from upcoming applications and anomalies. 
 
 http://www.fukuda-lab.org/mawilab/index.html
+
+## EMBER
+
+The EMBER dataset is a collection of features from PE files that serve as a benchmark dataset for researchers. The EMBER2017 dataset contained features from 1.1 million PE files scanned in or before 2017 and the EMBER2018 dataset contains features from 1 million PE files scanned in or before 2018. This repository makes it easy to reproducibly train the benchmark models, extend the provided feature set, or classify new PE files with the benchmark models.
+
+https://github.com/elastic/ember
+
