@@ -33,11 +33,13 @@ This dataset contains the data collected from Cuckoo and our own kernel driver a
 
 https://zenodo.org/record/1203289#.YFhIS-axWoh
 
-## Unified Host and Network Data Set
+## ARCS Data Sets
 
-The Unified Host and Network Dataset is a subset of network and computer (host) events collected from the Los Alamos National Laboratory enterprise network over the course of approximately 90 days.
+* **Unified Host and Network Data Set:** it is a subset of network and computer (host) events collected from the Los Alamos National Laboratory enterprise network over the course of approximately 90 days.
+* **Comprehensive, Multi-Source Cyber-Security Events:** this data set represents 58 consecutive days of de-identified event data collected from five sources within Los Alamos National Laboratory’s corporate, internal computer network.
+* **User-Computer Authentication Associations in Time:** This anonymized data set encompasses 9 continuous months and represents 708,304,516 successful authentication events from users to computers collected from the Los Alamos National Laboratory (LANL) enterprise network.
 
-https://csr.lanl.gov/data/2017/
+https://csr.lanl.gov/data/
 
 ## Stratosphereips Datasets
 
@@ -73,3 +75,8 @@ https://summitroute.com/blog/2020/10/09/public_dataset_of_cloudtrail_logs_from_f
 
 Dataset (logs data): http://summitroute.com/downloads/flaws_cloudtrail_logs.tar
 
+## MAWILab
+
+MAWILab is a database that assists researchers to evaluate their traffic anomaly detection methods. It consists of a set of labels locating traffic anomalies in the MAWI archive (samplepoints B and F). The labels are obtained using an advanced graph-based methodology that compares and combines different and independent anomaly detectors. The data set is daily updated to include new traffic from upcoming applications and anomalies. 
+
+http://www.fukuda-lab.org/mawilab/index.html
