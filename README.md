@@ -33,6 +33,12 @@ This dataset contains the data collected from Cuckoo and our own kernel driver a
 
 https://zenodo.org/record/1203289#.YFhIS-axWoh
 
+## Unified Host and Network Data Set
+
+The Unified Host and Network Dataset is a subset of network and computer (host) events collected from the Los Alamos National Laboratory enterprise network over the course of approximately 90 days.
+
+https://csr.lanl.gov/data/2017/
+
 ## Stratosphereips Datasets
 
 The Stratosphere IPS feeds itself with models created from real malware traffic captures. By using and studying how malware behaves in reality, we ensure the models we create are accurate and our measurements of performance are real.
