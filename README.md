@@ -3,20 +3,20 @@ Public datasets to help you address various cyber security problems using Machin
 
 ## Table of Contents
 
- - [The ADFA Intrusion Detection Datasets](#-The ADFA Intrusion Detection Datasets)
- - [Botnet and Ransomware Detection Datasets](#-Botnet and Ransomware Detection Datasets)
- - [Malicious URLs Dataset](#-Malicious URLs Dataset)
- - [Cloud Security Datasets](#-Cloud Security Datasets)
- - [Dynamic Malware Analysis Kernel and User-Level Calls](#-Dynamic Malware Analysis Kernel and User-Level Calls)
- - [ARCS Data Sets](#-ARCS Data Sets)
- - [Stratosphereips Datasets](#-Stratosphereips Datasets)
- - [Windows Malware Dataset with PE API Calls](#-Windows Malware Dataset with PE API Calls)
+ - [The ADFA Intrusion Detection Datasets](#-The-ADFA-Intrusion-Detection-Datasets)
+ - [Botnet and Ransomware Detection Datasets](#-Botnet-and-Ransomware-Detection-Datasets)
+ - [Malicious URLs Dataset](#-Malicious-URLs-Dataset)
+ - [Cloud Security Datasets](#-Cloud-Security-Datasets)
+ - [Dynamic Malware Analysis Kernel and User Level Calls](#-Dynamic-Malware-Analysis-Kernel-and-User-Level-Calls)
+ - [ARCS Data Sets](#-ARCS-Data-Sets)
+ - [Stratosphereips Datasets](#-Stratosphereips-Datasets)
+ - [Windows Malware Dataset with PE API Calls](#-Windows-Malware-Dataset-with-PE-API-Calls)
  - [KAGGLE](#-KAGGLE)
  - [Cloudtrail](#-Cloudtrail)
  - [MAWILab](#-MAWILab)
  - [EMBER](#-EMBER)
- - [Industrial Control System (ICS) Cyber Attack Datasets](#-Industrial Control System (ICS) Cyber Attack Datasets)
- - [Canadian Institute for Cybersecurity](#-Canadian Institute for Cybersecurity)
+ - [Industrial Control System (ICS) Cyber Attack Datasets](#-Industrial-Control-System-(ICS)-Cyber-Attack-Datasets)
+ - [Canadian Institute for Cybersecurity](#-Canadian-Institute-for-Cybersecurity)
 
 ## [↑](#table-of-contents) The ADFA Intrusion Detection Datasets
 
