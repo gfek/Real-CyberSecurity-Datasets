@@ -91,7 +91,7 @@ https://github.com/elastic/ember
 
 It consist of the following four (4) datasets:
 
-* Dataset 1: Power System Datasets: 
+* Dataset 1: Power System Datasets
 * Dataset 2: Gas Pipeline Datasets
 * Dataset 3: Gas Pipeline and Water Storage Tank
 * Dataset 4: New Gas Pipeline
