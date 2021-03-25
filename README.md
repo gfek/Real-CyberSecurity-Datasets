@@ -134,7 +134,7 @@ _This is a list of public packet capture repositories, which are freely availabl
 
 https://www.netresec.com/index.ashx?page=PcapFiles
 
-## [↑](#table-of-contents) Shadowbrokers EternalBlue/EternalRomance PCAP Dataset
+## [↑](#table-of-contents) Shadowbrokers EternalBlue EternalRomance PCAP Dataset
 
 Collected by Eric Conrad. This dataset is comprised of PCAP data from the EternalBlue and EternalRomance malware.  These PCAPs capture the actual exploits in action, on target systems that had not yet been patched to defeat to the exploits.  The EternalBlue PCAP data uses a Windows 7 target machine, whereas the EternalRomance PCAP data uses a Windows 2008r2 target machine.  Also included is EternalBlue PCAP data for a patched Windows 7 target machine showing the failed exploit. This data was collected in April 2017.
 
