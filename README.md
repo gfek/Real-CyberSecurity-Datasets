@@ -5,6 +5,7 @@ Happy Learning!!!
 
 ## Table of Contents
 
+ - [The ADFA Intrusion Detection Datasets](#-The-ADFA-Intrusion-Detection-Datasets)
  - [Botnet and Ransomware Detection Datasets](#-Botnet-and-Ransomware-Detection-Datasets)
  - [Malicious URLs Dataset](#-Malicious-URLs-Dataset)
  - [Cloud Security Datasets](#-Cloud-Security-Datasets)
@@ -21,6 +22,17 @@ Happy Learning!!!
  - [Publicly available PCAP files](#-Publicly-available-PCAP-files)
  - [Shadowbrokers EternalBlue/EternalRomance PCAP Dataset](#-Shadowbrokers-EternalBlue-EternalRomance-PCAP-Dataset)
  - [AZSecure Data](#-AZSecure-Data)
+
+ ## [↑](#table-of-contents) The ADFA Intrusion Detection Datasets
+
+ADFA IDS Datasets consist of following individual IDS datasets: 
+
+* Network and Linux host IDS datasets:ADFA-LD-dataset, netflow-IDS-dataset, and NGIDS-DS IDS Dataset.
+* Windows based IDS dataset ADFA-WD
+
+https://ojs.unsw.adfa.edu.au/xfiles/pdf/ADFA-IDS-Database%20License-homepage.pdf
+
+In the above PDF document you will find the two (2) links for downloading the aforementioned datasets (2017).
 
 ## [↑](#table-of-contents) Botnet and Ransomware Detection Datasets
 
