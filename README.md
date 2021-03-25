@@ -144,6 +144,7 @@ https://dibbs.ai.arizona.edu/dibbs/shadowbrokers-eternalblue/ShadowbrokersEterna
 ## [↑](#table-of-contents) AZSecure Data
 
 **Data Science Testbed for Security Researchers.**
+
 This portal is available to the ISI community to support research. This service started by offering browsing access to downloadable forums from the Artificial Intelligence Lab's Dark Web and Geo Web collections, which presently includes nearly 40 million postings. Each forum collection contains millions of postings from hundreds of thousands of authors, and may be in English, Arabic, French, German, Indonesian, Pashto, Russian or Urdu, depending on the forum. The repository also includes a large collection of Internet phishing websites from the University of Virginia, with collections of Escrow, Financial, and Pharmacy sites. Recent additions to the repository include hacker forums in English and Russian, Chinese underground market forums, and chat logs that can be used in the study of underground behavior and how hackers learn from each other, the formation of social networks, relationships with the underground economy, and more. The Patriot, militia, hate and linked websites collection based off the Southern Poverty Law Center’s 2009 list can be used to study rhetoric and communication, group dynamics, extreme social movements, and other topics, in information and the social sciences. 
 
  All data sets can be downloaded freely for non-commercial education and research use.
