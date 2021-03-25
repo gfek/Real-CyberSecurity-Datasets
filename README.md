@@ -28,7 +28,7 @@ Happy Learning!!!
 ADFA IDS Datasets consist of following individual IDS datasets: 
 
 * Network and Linux host IDS datasets:ADFA-LD-dataset, netflow-IDS-dataset, and NGIDS-DS IDS Dataset.
-* Windows based IDS dataset ADFA-WD
+* Windows based IDS dataset ADFA-WD.
 
 https://ojs.unsw.adfa.edu.au/xfiles/pdf/ADFA-IDS-Database%20License-homepage.pdf
 
