@@ -19,7 +19,7 @@ Happy Learning!!!
  - [Industrial Control System (ICS) Cyber Attack Datasets](#-Industrial-Control-System-(ICS)-Cyber-Attack-Datasets)
  - [Canadian Institute for Cybersecurity](#-Canadian-Institute-for-Cybersecurity)
  - [Publicly available PCAP files](#-Publicly-available-PCAP-files)
- - [Shadowbrokers EternalBlue/EternalRomance PCAP Dataset](#-Shadowbrokers-EternalBlue/EternalRomance-PCAP-Dataset)
+ - [Shadowbrokers EternalBlue/EternalRomance PCAP Dataset](#-Shadowbrokers-EternalBlue-EternalRomance-PCAP-Dataset)
 
 ## [↑](#table-of-contents) Botnet and Ransomware Detection Datasets
 
