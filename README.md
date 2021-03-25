@@ -5,7 +5,6 @@ Happy Learning!!!
 
 ## Table of Contents
 
- - [The ADFA Intrusion Detection Datasets](#-The-ADFA-Intrusion-Detection-Datasets)
  - [Botnet and Ransomware Detection Datasets](#-Botnet-and-Ransomware-Detection-Datasets)
  - [Malicious URLs Dataset](#-Malicious-URLs-Dataset)
  - [Cloud Security Datasets](#-Cloud-Security-Datasets)
@@ -20,12 +19,6 @@ Happy Learning!!!
  - [Industrial Control System (ICS) Cyber Attack Datasets](#-Industrial-Control-System-(ICS)-Cyber-Attack-Datasets)
  - [Canadian Institute for Cybersecurity](#-Canadian-Institute-for-Cybersecurity)
  - [Publicly available PCAP files](#-Publicly-available-PCAP-files)
-
-## [↑](#table-of-contents) The ADFA Intrusion Detection Datasets
-
-The datasets cover both Linux and Windows; they are designed for evaluation by system call based HIDS.
-
-https://www.unsw.adfa.edu.au/unsw-canberra-cyber/cybersecurity/ADFA-IDS-Datasets/
 
 ## [↑](#table-of-contents) Botnet and Ransomware Detection Datasets
 
