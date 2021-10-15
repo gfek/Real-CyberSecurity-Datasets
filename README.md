@@ -5,6 +5,7 @@ Happy Learning!!!
 
 ## Table of Contents
 
+ - [AB-TRAP Framework for Dataset Generation](#-AB-TRAP-Framework-for-Dataset-Generation)
  - [HIKARI-2021 Datasets](#-Hikari-2021-Datasets)
  - [The ADFA Intrusion Detection Datasets](#-The-ADFA-Intrusion-Detection-Datasets)
  - [Botnet and Ransomware Detection Datasets](#-Botnet-and-Ransomware-Detection-Datasets)
@@ -23,6 +24,14 @@ Happy Learning!!!
  - [Publicly available PCAP files](#-Publicly-available-PCAP-files)
  - [Shadowbrokers EternalBlue/EternalRomance PCAP Dataset](#-Shadowbrokers-EternalBlue-EternalRomance-PCAP-Dataset)
  - [AZSecure Data](#-AZSecure-Data)
+
+## [↑](#table-of-contents) AB-TRAP Framework for Dataset Generation
+
+It is a five-step framework consisting of (i) the generation of the attack dataset, (ii) the bonafide dataset, (iii) training of machine learning models, (iv) realization of the models, and (v) the performance evaluation of the realized model after deployment.
+
+This repositories contains the examples for both Local Area Network (LAN), and the Internet environment taking advantage of virtualization (virtual machines and containers) to support the dataset generation.
+
+https://github.com/c2dc/AB-TRAP/
 
 ## [↑](#table-of-contents) HIKARI-2021 Datasets
 
