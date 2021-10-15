@@ -5,6 +5,7 @@ Happy Learning!!!
 
 ## Table of Contents
 
+ - [HIKARI-2021 Datasets](#-Hikari-2021-Datasets)
  - [The ADFA Intrusion Detection Datasets](#-The-ADFA-Intrusion-Detection-Datasets)
  - [Botnet and Ransomware Detection Datasets](#-Botnet-and-Ransomware-Detection-Datasets)
  - [Malicious URLs Dataset](#-Malicious-URLs-Dataset)
@@ -23,7 +24,13 @@ Happy Learning!!!
  - [Shadowbrokers EternalBlue/EternalRomance PCAP Dataset](#-Shadowbrokers-EternalBlue-EternalRomance-PCAP-Dataset)
  - [AZSecure Data](#-AZSecure-Data)
 
- ## [↑](#table-of-contents) The ADFA Intrusion Detection Datasets
+## [↑](#table-of-contents) HIKARI-2021 Datasets
+
+HIKARI-2021 datasets contains encrypted synthetic attacks and benign traffic.
+
+https://zenodo.org/record/5199540
+
+## [↑](#table-of-contents) The ADFA Intrusion Detection Datasets
 
 ADFA IDS Datasets consist of following individual IDS datasets: 
 
