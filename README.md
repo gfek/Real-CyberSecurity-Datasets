@@ -24,6 +24,7 @@ Happy Learning!!!
  - [Publicly available PCAP files](#-Publicly-available-PCAP-files)
  - [Shadowbrokers EternalBlue/EternalRomance PCAP Dataset](#-Shadowbrokers-EternalBlue-EternalRomance-PCAP-Dataset)
  - [AZSecure Data](#-AZSecure-Data)
+ - [Secrepo](#-Secrepo)
 
 ## [↑](#table-of-contents) AB-TRAP Framework for Dataset Generation
 
@@ -178,3 +179,9 @@ This portal is available to the ISI community to support research. This service 
  All data sets can be downloaded freely for non-commercial education and research use.
 
 https://www.azsecure-data.org/
+
+## [↑](#table-of-contents) Secrepo
+
+Finding samples of various types of Security related can be a giant pain. This is my attempt to keep a somewhat curated list of Security related data I've found, created, or was pointed to. If you perform any kind of analysis with any of this data please let me know and I'd be happy to link it from here or host it here. Hopefully by looking at others research and analysis it will inspire people to add-on, improve, and create new ideas.
+
+http://www.secrepo.com/
